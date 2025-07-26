@@ -167,7 +167,7 @@
       },
 
 
-\TLV team_bogus1_wrapper(/_top)
+\TLV bogus1_wrapper(/_top)
    m5+verilog_wrapper(/_top, bogus1)
 
 

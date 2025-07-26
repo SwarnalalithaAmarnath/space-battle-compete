@@ -253,7 +253,7 @@ endgenerate
       },
 
 
-\TLV team_swarna_wrapper(/_top)
+\TLV swarna_wrapper(/_top)
    m5+verilog_wrapper(/_top, swarna)
 
 
