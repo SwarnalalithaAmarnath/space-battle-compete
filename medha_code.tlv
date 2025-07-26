@@ -320,7 +320,7 @@
    // Choose your opponent.
    // Note that inactive teams must be commented with "///", not "//", to prevent M5 macro evaluation.
    ///m5_team(random, Random)
-   m5_team(sitting_duck, Sitting Duck)
+   ///m5_team(sitting_duck, Sitting Duck)
    ///m5_team(demo1, Test 1)
    
    
